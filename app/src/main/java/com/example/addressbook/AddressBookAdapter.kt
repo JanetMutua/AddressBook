@@ -10,8 +10,8 @@ import androidx.recyclerview.widget.RecyclerView
 class AddressBookAdapter: RecyclerView.Adapter<AddressBookAdapter.AddressBookViewHolder>(){
 
     //implementing the data source for the address book
-    private val images = intArrayOf( R.drawable.face1,
-    R.drawable.face2, R.drawable.face3, R.drawable.face4, R.drawable.face5, R.drawable.face6, R.drawable.face7, R.drawable.face8)
+    private val images = intArrayOf( R.drawable.baseline_person2,
+    R.drawable.baseline_person2, R.drawable.baseline_person2, R.drawable.baseline_person2, R.drawable.baseline_person2, R.drawable.baseline_person2, R.drawable.baseline_person2, R.drawable.baseline_person2)
     private val names = arrayOf("Loise Kirapa",
         "Arnold Mutua", "George Lewis", "Arya Chebet",
         "Mwanasiti Salim", "Brian Chege", "Jose Almasi",
